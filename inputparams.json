@@ -1,0 +1,6 @@
+[
+ { "letter": "r", "chance" : "0.2"},
+ { "letter": "h", "chance" : "0.1"},
+ { "letter": "j", "chance" : "0.5"},
+ { "letter": "x", "chance" : "0.2"}
+]
